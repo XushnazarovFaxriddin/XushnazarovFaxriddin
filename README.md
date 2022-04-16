@@ -1,5 +1,6 @@
 <p align="center">
     <a href="https://github.com/XushnazarovFaxriddin/XushnazarovFaxriddin"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="dotnet.microsoft.com"><img src="https://img.shields.io/badge/dotnet-6.0-brightgreen.svg?color=red"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.9-FF1493.svg"></a>
     <a href="https://github.com/XushnazarovFaxriddin/XushnazarovFaxriddin/graphs/contributors"><img src="https://img.shields.io/github/contributors/BEPb/BEPb?color=blue"></a>
     <a href="https://github.com/XushnazarovFaxriddin/XushnazarovFaxriddin/stargazers"><img src="https://img.shields.io/github/stars/BEPb/BEPb.svg?logo=github"></a>
