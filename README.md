@@ -37,9 +37,9 @@ Property | Data
 
 **📫 How to Reach me:**
 <p align="left">
-<a href="https://twitter.com/sardorb3k" target="blank"><img align="center" src="https://raw.githubusercontent.com/sardorb3k/sardorb3k/master/assets/twitter.svg" alt="sardorb3k" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/sardorb3k" target="blank"><img align="center" src="https://raw.githubusercontent.com/sardorb3k/sardorb3k/master/assets/linkedin.svg" alt="sardorb3k" height="30" width="30" /></a>
-<a href="mailto:s.sardorb3k@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/sardorb3k/sardorb3k/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
+<a href="https://t.me/xushnazarov_55" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="XushnazarovFaxriddn" height="30" width="30" /></a>
+<a href="tel:936831555" target="blank"><img align="center" src="https://freesvg.org/img/molumen_phone_icon.png" alt="XushnazarovFaxriddn" height="30" width="30" /></a>
+<a href="mailto:xushnazarov1555@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/sardorb3k/sardorb3k/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 </p>
 
 
