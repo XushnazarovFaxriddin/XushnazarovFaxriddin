@@ -1,16 +1,16 @@
 <p align="center">
     <a href="https://github.com/XushnazarovFaxriddin/XushnazarovFaxriddin"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.9-FF1493.svg"></a>
-    <a href="https://github.com/sardorb3k/sardorb3k/graphs/contributors"><img src="https://img.shields.io/github/contributors/BEPb/BEPb?color=blue"></a>
-    <a href="https://github.com/sardorb3k/sardorb3k/stargazers"><img src="https://img.shields.io/github/stars/BEPb/BEPb.svg?logo=github"></a>
-    <a href="https://github.com/sardorb3k/sardorb3k/network/members"><img src="https://img.shields.io/github/forks/BEPb/BEPb.svg?color=blue&logo=github"></a>
+    <a href="https://github.com/XushnazarovFaxriddin/XushnazarovFaxriddin/graphs/contributors"><img src="https://img.shields.io/github/contributors/BEPb/BEPb?color=blue"></a>
+    <a href="https://github.com/XushnazarovFaxriddin/XushnazarovFaxriddin/stargazers"><img src="https://img.shields.io/github/stars/BEPb/BEPb.svg?logo=github"></a>
+    <a href="https://github.com/XushnazarovFaxriddin/XushnazarovFaxriddin/network/members"><img src="https://img.shields.io/github/forks/BEPb/BEPb.svg?color=blue&logo=github"></a>
     <img src="https://dotnet.microsoft.com/static/images/illustrations/free-code-editor-tools-bot-desk.svg" alt="visitors"/>   
 </p>
 
 ![](./src/header_.png)
 <a href="https://dotnet.microsoft.com/"><img src="https://dotnet.microsoft.com/static/images/redesign/learn/in-browser-tutorial/finished.svg" align="right" height="150" width="200" ></a>
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Faxriddin;+Welcome+to+My+Profile!;Over+3+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member;FullStack+.NET+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Faxriddin;+Welcome+to+My+Profile!;Over+3+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;FullStack+.NET+developer)](https://git.io/typing-svg)
 
 
 Property | Data
