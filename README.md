@@ -8,7 +8,7 @@
 </p>
 
 ![](./src/header_.png)
-<a href="https://dotnet.microsoft.com/"><img src="https://dotnet.microsoft.com/static/images/redesign/learn/in-browser-tutorial/finished.svg" align="right" height="100" width="150" ></a>
+<a href="https://dotnet.microsoft.com/"><img src="https://dotnet.microsoft.com/static/images/redesign/learn/in-browser-tutorial/finished.svg" align="right" height="150" width="200" ></a>
     
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Faxriddin;+Welcome+to+My+Profile!;Over+3+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member;FullStack+.NET+developer)](https://git.io/typing-svg)
 
