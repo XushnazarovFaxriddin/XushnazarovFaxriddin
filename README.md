@@ -4,11 +4,11 @@
     <a href="https://github.com/sardorb3k/sardorb3k/graphs/contributors"><img src="https://img.shields.io/github/contributors/BEPb/BEPb?color=blue"></a>
     <a href="https://github.com/sardorb3k/sardorb3k/stargazers"><img src="https://img.shields.io/github/stars/BEPb/BEPb.svg?logo=github"></a>
     <a href="https://github.com/sardorb3k/sardorb3k/network/members"><img src="https://img.shields.io/github/forks/BEPb/BEPb.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=BEPb.BEPb" alt="visitors"/>   
+    <img src="https://dotnet.microsoft.com/static/images/illustrations/free-code-editor-tools-bot-desk.svg" alt="visitors"/>   
 </p>
 
 ![](./src/header_.png)
-<a href="https://dotnet.microsoft.com/"><img style="width:150px; height:175px;" src="https://dotnet.microsoft.com/static/images/illustrations/swimlane_xamarin_cross_platform.svg" align="right" height="48" width="48" ></a>
+<a href="https://dotnet.microsoft.com/"><img src="https://dotnet.microsoft.com/static/images/illustrations/swimlane_xamarin_cross_platform.svg" align="right" height="48" width="48" ></a>
     
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Faxriddin;+Welcome+to+My+Profile!;Over+3+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member;FullStack+.NET+developer)](https://git.io/typing-svg)
 
